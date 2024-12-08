@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Baca dan tambahkan cerita dicodingmu di Your Stories in Dicoding</string>
+    <string name="title_welcome_page">Selamat datang di Your Stories in Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk Bercerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Bercerita di Your Stories in Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="login_success">Sukses login</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="add_your_story">Add Your Story</string>
+    <string name="kamera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="submit">Submit</string>
+    <string name="tulis_deskripsi_disini">Tulis Deskripsi Disini</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="add_error">Error adding story</string>
+</resources>
